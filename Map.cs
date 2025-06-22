@@ -9,7 +9,7 @@ using TaleWorlds.Library;
 using TaleWorlds.Localization;
 using TaleWorlds.MountAndBlade;
 
-namespace ExampleMod
+namespace Map
 {
     public class MySubModule : MBSubModuleBase
     {
